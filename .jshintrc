@@ -25,7 +25,7 @@
     "onevar": false,
     "jquery": true,
     "globals": {
-        "require": true,
+        "requirejs": true,
         "define": true,
         "describe": true,
         "it": true,
