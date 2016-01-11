@@ -1,0 +1,33 @@
+{
+  "name": "WilsonInvaders",
+  "version": "1.0.0",
+  "authors": [
+    "RasCarlito"
+  ],
+  "description": "Sails version of clamber",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.2.1",
+    "backbone-highway": "~0.6.0",
+    "bootstrap": "~3.3.5",
+    "dustjs-linkedin": "~2.7.2",
+    "font-awesome": "~4.3.0",
+    "jquery": "~2.1.4",
+    "lodash": "~3.10.0",
+    "loglevel": "~1.4.0",
+    "marionette": "~2.4.2",
+    "moment": "~2.10.6",
+    "requirejs": "~2.1.19",
+    "requirejs-plugins": "~1.0.3"
+  }
+}
